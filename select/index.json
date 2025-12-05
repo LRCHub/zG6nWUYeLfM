@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Bloody Power Fame",
+  "base_artist": "coldrain",
+  "createdAt": "2025-12-05T03:17:04.058249Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloody Power Fame",
+      "artist": "coldrain",
+      "has_synced": true,
+      "path": "select/01_Bloody_Power_Fame_coldrain.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "coldrain - Bloody Power Fame (Lyrics)",
+      "artist": "9h0st",
+      "has_synced": true,
+      "path": "select/02_coldrain_-_Bloody_Power_Fame_(Lyrics)_9h0st.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bloody Power Fame",
+      "artist": "coldrain",
+      "has_synced": true,
+      "path": "select/03_Bloody_Power_Fame_coldrain.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloody Power Fame",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_01_Bloody_Power_Fame_coldrain.txt"
+    }
+  ]
+}
